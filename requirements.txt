@@ -1,0 +1,10 @@
+streamlit
+pandas
+reportlab
+Pillow
+plotly
+fitz
+PyMuPDF
+pathlib
+PyMuPDF
+
